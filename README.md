@@ -1,4 +1,4 @@
-- 👋 @Fairon here
+- 👋 @MiisteRZ here
 - 👀 Interested on Any Project
 - 🌱 Lua, HTML, css, Python \ Cookin': JS
 - 📫 Discord: therealmister
